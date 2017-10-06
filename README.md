@@ -1,7 +1,7 @@
 #The Judging Boi will judge your comments
 
 ##connected with twitter
-###to run 1tweet.py you need to put your consumer key,secret, consumer 
+###to run 1tweet.py you need to put your consumer key,secret, accesstoken and secretand put em in 1tweet.py
 
 ## before running final_project.py 
     
