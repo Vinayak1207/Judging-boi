@@ -7,10 +7,10 @@ import time
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="rG2yJRKoXhLTOUjZhuZDuZhMT"
-csecret="mkMKPLfMBOBqiKvXWYkEUsddvEQL2ZdDAmoGVXIkfGXUPC1bDw"
-atoken="1289132556-iegjIbCCamu28NyytsQLYgRhMcUC1eTR9J4LNhB"
-asecret="MhgPNciOCovQAjN7W0GQZ69OrKccBZbltDJgzgwjjkDoF"
+ckey="*********" #generate consumer key in twitter
+csecret="********"  #consumer secret would be provided with keyy in twitter
+atoken="********" #generate access token
+asecret="MhgPNciOCovQAjN7W0GQZ69OrKccBZbltDJgzgwjjkDoF"  # access tsecret here
 
 class listener(StreamListener):
 
